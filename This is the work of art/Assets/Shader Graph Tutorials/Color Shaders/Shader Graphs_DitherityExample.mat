@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs_DitherityExample
-  m_Shader: {fileID: -6465566751694194690, guid: b738637035dc2f64abe192bbf61affd7, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 247e5009620219b49aeaa617ce5b0d74, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -46,7 +46,9 @@ Material:
     - _QueueOffset: 0
     - _Threshold: 0.274
     m_Colors:
+    - _Background: {r: 0.16990745, g: 0.041957937, b: 0.26792446, a: 0}
     - _Base_Color: {r: 0.28422204, g: 0.78867924, b: 0.7807141, a: 0.8509804}
+    - _Foreground: {r: 0.909434, g: 0.25910288, b: 0.8837364, a: 0}
     - _Scroll_Velocity: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
